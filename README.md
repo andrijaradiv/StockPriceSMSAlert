@@ -1,5 +1,6 @@
 # StockPriceSMSAlert
 Receive stock price change alert messages to your phone 
+-------------------------------------------------------
 
 Configure config file and add neccessary information
 
